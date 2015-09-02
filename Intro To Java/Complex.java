@@ -1,4 +1,4 @@
-public class Complex {
+public class Complex implements Number {
 
     private double realpart, imagpart;
 
