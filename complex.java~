@@ -1,0 +1,6 @@
+public class Complex {
+
+    public Complex(double realpart, doube imaginarypart) {
+
+	this.realpart = realpart;
+	this.imagpart = imaginarypart;
